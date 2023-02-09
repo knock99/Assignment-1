@@ -6,10 +6,12 @@
 > This is my first experience using html and web based code
 > **Plenty** of practice is needed to perfect this 
 
-
-
-
+1. Milk
+2. Eggs 
+3. Corn
+4. Beans
 
 - Changed HTML background
 - Added bold text 
-- 
+- Blurb
+- List 
